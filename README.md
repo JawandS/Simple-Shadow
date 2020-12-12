@@ -1,5 +1,6 @@
 # Simple-Shadow
 <<<<<<< HEAD
+<<<<<<< HEAD
  HackTJ 7.5 
 
 To-Do
@@ -14,3 +15,8 @@ To-Do
 
  
 >>>>>>> 008da7204b55fbd6076488b8b74ff909a943f018
+=======
+HackTJ 7.5
+
+
+>>>>>>> 6131c53c64625136e7fc3fa0dfb66f251ff851a4
