@@ -11,6 +11,6 @@ To-Do
 
 Further Dev
 
-Add icons on the right side of the card which have links to websites and social media platforms
-Make it possible to share your card with other people on the app by adding their username
-Add certain people to your update list so that they get notified whenever you change a piece of your info
+- Add icons on the right side of the card which have links to websites and social media platforms
+- Make it possible to share your card with other people on the app by adding their username
+- Add certain people to your update list so that they get notified whenever you change a piece of your info
