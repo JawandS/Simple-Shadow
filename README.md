@@ -18,9 +18,11 @@ Further Dev
 BusinessTemplate  
      Background: #F7F6F0
      Text: #3F4D58
+
 Template2 
      Background: #3F4D58
      Text: #FFFFFF
+
 Template3 
      Background: #F7F6F0
      Text: #000000
