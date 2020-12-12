@@ -11,6 +11,10 @@ public class test{
         if(p==pass) {
             return key;
         }
+        public in setPass(int k, int p){
+            if (k == key)
+                pass = p;
+        }
 
         return 1985000;
     }
