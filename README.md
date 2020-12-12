@@ -1,4 +1,5 @@
 # Simple-Shadow
+<<<<<<< HEAD
  HackTJ 7.5 
 
 To-Do
