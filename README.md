@@ -28,3 +28,18 @@ Template3
      Text: #000000
      (Leaves - Border): #1D3131
      (Leaves - Inside): #006966
+     
+Name
+Company
+Title
+Email
+Number
+Address
+
+Social Media Link Templates:
+Instagram: https://www.instagram.com/"username"/
+Facebook (needs link?): https://www.facebook.com/"username"
+LinkedIn: https://www.linkedin.com/in/"username"/
+Twitter: https://twitter.com/"username"
+
+
