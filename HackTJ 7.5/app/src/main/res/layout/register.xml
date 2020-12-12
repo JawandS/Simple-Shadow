@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/registerEmailEditText"
+        android:hint="@string/email"
+        app:layout_constraintWidth_min="300dp"
+        app:layout_constraintWidth_max="300dp"
+        app:layout_constraintHeight_min="80dp"
+        app:layout_constraintHeight_max="80dp"
+        app:layout_constraintVertical_chainStyle="packed"
+        app:layout_constraintVertical_bias=".4"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toTopOf="@id/registerPasswordEditText" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/registerPasswordEditText"
+        android:hint="@string/password"
+        app:layout_constraintWidth_min="300dp"
+        app:layout_constraintWidth_max="300dp"
+        app:layout_constraintHeight_min="80dp"
+        app:layout_constraintHeight_max="80dp"
+        app:layout_constraintVertical_chainStyle="packed"
+        app:layout_constraintVertical_bias=".4"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/registerEmailEditText"
+        app:layout_constraintBottom_toBottomOf="parent" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/registerButton"
+        android:background="@color/red"
+        android:text="@string/register"
+        android:textSize="20sp"
+        android:textAlignment="center"
+        android:gravity="center"
+        app:layout_constraintWidth_min="150dp"
+        app:layout_constraintWidth_max="150dp"
+        app:layout_constraintHeight_min="50dp"
+        app:layout_constraintHeight_max="50dp"
+        app:layout_constraintVertical_bias=".2"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/registerPasswordEditText"
+        app:layout_constraintBottom_toBottomOf="parent" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/toSignInFromRegister"
+        android:background="@color/green"
+        android:text="@string/sign_in"
+        android:textSize="20sp"
+        android:textAlignment="center"
+        android:gravity="center"
+        app:layout_constraintWidth_min="150dp"
+        app:layout_constraintWidth_max="150dp"
+        app:layout_constraintHeight_min="50dp"
+        app:layout_constraintHeight_max="50dp"
+        app:layout_constraintVertical_bias=".95"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toLeftOf="@id/toForgotPasswordFromRegister"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/toForgotPasswordFromRegister"
+        android:background="@color/green"
+        android:text="@string/forgot_password"
+        android:textSize="20sp"
+        android:textAlignment="center"
+        android:gravity="center"
+        app:layout_constraintWidth_min="200dp"
+        app:layout_constraintWidth_max="200dp"
+        app:layout_constraintHeight_min="50dp"
+        app:layout_constraintHeight_max="50dp"
+        app:layout_constraintVertical_bias=".95"
+        app:layout_constraintLeft_toRightOf="@id/toSignInFromRegister"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
