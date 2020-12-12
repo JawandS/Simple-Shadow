@@ -1,7 +1,7 @@
 public class test{
 
     int key = 0;
-    int pass = 1454;
+     int pass = 0000;
 
     public test(int k){
         key = k;
