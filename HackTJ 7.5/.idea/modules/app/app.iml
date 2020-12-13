@@ -26,7 +26,10 @@
         <option name="RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/../../../app/src/main/res;file://$MODULE_DIR$/../../../app/src/debug/res;file://$MODULE_DIR$/../../../app/build/generated/res/google-services/debug;file://$MODULE_DIR$/../../../app/build/generated/res/rs/debug" />
         <option name="TEST_RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/../../../app/src/androidTest/res;file://$MODULE_DIR$/../../../app/src/test/res;file://$MODULE_DIR$/../../../app/src/androidTestDebug/res;file://$MODULE_DIR$/../../../app/src/testDebug/res;file://$MODULE_DIR$/../../../app/build/generated/res/rs/androidTest/debug" />
 <<<<<<< HEAD:HackTJ 7.5/.idea/modules/app/app.iml
+<<<<<<< HEAD:HackTJ 7.5/.idea/modules/app/app.iml
 >>>>>>> Stashed changes:HackTJ 7.5/.idea/modules/app/app.iml
+=======
+>>>>>>> parent of 2e0f2c2... Android:HackTJ 7.5/.idea/modules/app/BizzCard.app.iml
 =======
 >>>>>>> parent of 2e0f2c2... Android:HackTJ 7.5/.idea/modules/app/BizzCard.app.iml
         <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/src/main/assets" />

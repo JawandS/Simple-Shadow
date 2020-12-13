@@ -25,6 +25,7 @@
   </component>
   <component name="ChangeListManager">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <list default="true" id="e40abab6-a914-4bca-b43b-1ec64bacaca7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
@@ -35,12 +36,19 @@
 =======
     <list default="true" id="e40abab6-a914-4bca-b43b-1ec64bacaca7" name="Default Changelist" comment="" />
 >>>>>>> parent of 2e0f2c2... Android
+=======
+    <list default="true" id="e40abab6-a914-4bca-b43b-1ec64bacaca7" name="Default Changelist" comment="" />
+>>>>>>> parent of 2e0f2c2... Android
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_2_API_30" />
+>>>>>>> parent of 2e0f2c2... Android
 =======
   <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_2_API_30" />
 >>>>>>> parent of 2e0f2c2... Android
