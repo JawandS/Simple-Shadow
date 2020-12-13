@@ -42,6 +42,9 @@ Address
 
 Social Media Links:
 Instagram: https://www.instagram.com/"username"/
+
 Facebook: user inputs link
+
 LinkedIn: user inputs link
+
 Twitter: https://twitter.com/"username"
