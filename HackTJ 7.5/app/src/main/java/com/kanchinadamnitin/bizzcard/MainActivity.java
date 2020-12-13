@@ -50,7 +50,7 @@ public class MainActivity extends AppCompatActivity {
                         if(task.isSuccessful()) {
                             editor.putString("currentUserEmail", emailEditText.getText().toString());
                             editor.apply();
-                            //startActivity(new Intent(MainActivity.this, AuthorizedActivity.class));
+                            startActivity(new Intent(MainActivity.this, AuthorizedActivity.class));
                         }
                         else if(sharedPreferences.contains(emailEditText.getText().toString()))
                             Toast.makeText(getApplicationContext(), "Wrong password. Reset your password if you have forgotten", Toast.LENGTH_SHORT).show();
