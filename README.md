@@ -18,13 +18,16 @@ Further Dev
 BusinessTemplate  
      Background: #F7F6F0
      Text: #3F4D58
+     Font: Vollkorn, Montserrat (Name)
 
 Template2
      Background: #3F4D58
      Text: #FFFFFF
+     Font: Montserrat
 
 Template3
      Background: #F7F6F0
      Text: #000000
      (Leaves - Border): #1D3131
      (Leaves - Inside): #006966
+     Font: Montserrat
