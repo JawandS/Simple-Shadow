@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "86844110750",
+    "project_id": "bizzcard-54664",
+    "storage_bucket": "bizzcard-54664.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86844110750:android:5c3e37604a732ecf62888f",
+        "android_client_info": {
+          "package_name": "com.kanchinadamnitin.bizzcard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86844110750-27sminc1ft9qdn90h3oh6q6np07fv6dh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kanchinadamnitin.bizzcard",
+            "certificate_hash": "cf4ec67ebf3fb12ac598f670dce8530c2785bb38"
+          }
+        },
+        {
+          "client_id": "86844110750-hph8g6nh7hqrkrejirecajn053bjunmb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6WwGqoPOpSiRctRfI07ti6EZwAnqCXTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86844110750-hph8g6nh7hqrkrejirecajn053bjunmb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
