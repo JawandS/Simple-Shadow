@@ -28,6 +28,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="resourceFile" />
         <option value="Class" />
       </list>
     </option>
@@ -45,7 +46,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../Junior Year/MobileAppDev/NewAuthentication" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
   </component>
   <component name="RunManager">
@@ -56,7 +57,7 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
       <module name="app" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
@@ -122,9 +123,41 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="280" key="FileChooserDialogImpl" timestamp="1607808055467">
+    <state x="540" y="280" key="AndroidCreateResourceDirectoryDialog" timestamp="1607811997701">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="740" y="280" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1607808055467" />
+    <state x="540" y="280" key="AndroidCreateResourceDirectoryDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1607811997701" />
+    <state x="540" y="280" key="AndroidCreateResourceFileDialog" timestamp="1607812033464">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="540" y="280" key="AndroidCreateResourceFileDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1607812033464" />
+    <state x="818" y="338" key="AndroidCreateXmlResourceDialog" timestamp="1607815162143">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="818" y="338" key="AndroidCreateXmlResourceDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1607815162143" />
+    <state x="740" y="280" key="FileChooserDialogImpl" timestamp="1607816101575">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="740" y="280" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1607816101575" />
+    <state width="1877" height="243" key="GridCell.Tab.0.bottom" timestamp="1607817203099">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="243" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1607817203099" />
+    <state width="1877" height="243" key="GridCell.Tab.0.center" timestamp="1607817203098">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="243" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1607817203098" />
+    <state width="1877" height="243" key="GridCell.Tab.0.left" timestamp="1607817203097">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="243" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1607817203097" />
+    <state width="1877" height="243" key="GridCell.Tab.0.right" timestamp="1607817203098">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="243" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1607817203098" />
+    <state x="616" y="243" key="run.anything.popup" timestamp="1607815704203">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="616" y="243" key="run.anything.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1607815704203" />
   </component>
 </project>

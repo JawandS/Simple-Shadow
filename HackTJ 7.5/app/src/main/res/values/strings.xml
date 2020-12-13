@@ -6,4 +6,10 @@
     <string name="sign_in">Sign In</string>
     <string name="forgot_password">Forgot Password</string>
     <string name="change_password">Reset Password</string>
+    <string name="my_info">My Info</string>
+    <string name="fill_out_templates">Fill Out Templates</string>
+    <string name="my_cards">My Cards</string>
+    <string name="profile">Profile</string>
+    <string name="send_cards">Send Cards</string>
+    <string name="friend_menu">Friend Menu</string>
 </resources>

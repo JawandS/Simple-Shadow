@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Simple-Shadow.iml" filepath="$PROJECT_DIR$/.idea/Simple-Shadow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CardConnect.iml" filepath="$PROJECT_DIR$/.idea/modules/CardConnect.iml" group="CardConnect" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="CardConnect/app" />
     </modules>
   </component>
 </project>
