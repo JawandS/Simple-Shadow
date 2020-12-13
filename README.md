@@ -32,6 +32,7 @@ Template3
      (Leaves - Inside): #006966
      Font: Montserrat
      
+
 Fields: 
 Name
 Company
@@ -39,6 +40,7 @@ Title
 Email
 Number
 Address
+
 
 Social Media Links:
 Instagram: https://www.instagram.com/"username"/
