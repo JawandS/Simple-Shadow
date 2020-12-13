@@ -31,3 +31,17 @@ Template3
      (Leaves - Border): #1D3131
      (Leaves - Inside): #006966
      Font: Montserrat
+     
+Fields: 
+Name
+Company
+Title
+Email
+Number
+Address
+
+Social Media Links:
+Instagram: https://www.instagram.com/"username"/
+Facebook: https://www.facebook.com/"username"
+LinkedIn: user inputs link
+Twitter: https://twitter.com/"username"
